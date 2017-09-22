@@ -1,0 +1,44 @@
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.navbar a:hover {
+    color: darkred !important;
+}
+
+.navbar-nav li a:hover {
+    color: red!important;
+}
+.navbar-nav li {
+    font-size: 20px;
+}
+.bg-1{
+background-color: cadetblue;
+color: brown;
+
+}
+.bg-2{
+background-color: gray;
+color: white;
+
+}
+.row{
+font-size: 25px;
+}
+.bg-5{
+background-color: bisque;
+
+}
+h4{
+color: black;
+font-size: 25px;
+}
+.bg-5 span{
+color: saddlebrown;
+font-size: 20px;
+}
